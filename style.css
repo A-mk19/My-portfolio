@@ -5,6 +5,7 @@
             font-family: sans-serif;
             width: 100%;
             min-height: 100vh;
+            text-align: justify;
         }
 
         .container {
@@ -235,4 +236,5 @@
                 padding: 8px;
                 font-size: 0.9rem;
             }
+
         }
